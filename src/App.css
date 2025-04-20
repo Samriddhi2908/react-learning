@@ -1,0 +1,20 @@
+.App{
+  text-align: center;
+ color: black;
+ 
+}  
+
+h1{
+ margin: 0;
+}
+
+.header{
+background-color: #192a56;
+padding: 14px;
+color: white;
+}
+
+.btn{
+  background-color: aquamarine;
+  
+}
