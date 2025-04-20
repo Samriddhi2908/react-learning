@@ -7,7 +7,7 @@ return(
   <div className="App">
 
   <Header 
-  name ="Sam"
+  name ="Samriddhi"
   age={18}
   />
 
