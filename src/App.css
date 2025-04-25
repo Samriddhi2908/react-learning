@@ -4,17 +4,36 @@
  
 }  
 
+
 h1{
  margin: 0;
 }
 
 .header{
 background-color: #192a56;
-padding: 14px;
-color: white;
+padding: 8px;
+color:white;
 }
 
-.btn{
-  background-color: aquamarine;
-  
+.main{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+padding: 14px;
+
+}
+
+.movie{
+  color: black;
+  background-color:rgb(219,212,212);
+  border: 1px solid gray;
+  padding: 3px;
+  font-weight: bold;
+  text-align: start;
+  width: 22%;
+  margin-top: 14px;
+}
+.movie img{
+height: 220px;
+width:100%;
 }
